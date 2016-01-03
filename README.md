@@ -2,7 +2,7 @@
 This is a project which is a part of Udacity's Data Analyst Nanodegree program.
 
 ### Project Overview
-The present project is to analyze a dataset and then communicate the findings about it. The project consist of going through the entire data analysis process, starting by posing a question and finishing by sharing the findings.
+The presented project is to analyze a dataset and then communicate the findings about it. The project consist of going through the entire data analysis process, starting by posing a question and finishing by sharing the findings.
 
 ### Project Data
 The dataset used is the Titanic data provided by [kaggle](https://www.kaggle.com) which could be found [here](https://www.kaggle.com/c/titanic/download/train.csv). The data consists of 12 columns whose description is given below.
